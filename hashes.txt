@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - J'ai Tout Oublié
+
+This log tracks the cryptographic history and versioning for the song **J'ai Tout Oublié** (jai-tout-oublie).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T12:36:46.732045 | `v1` | `c1e2157719b34c002934d6316d5717da74d470065765c3c9206409c7e67ad536` | `73e72cf755fe8ae25b3698f503005a72aa59a7a57ed888f7359907b464cb9a33` | `2026-06-25_jai-tout-oublie-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
