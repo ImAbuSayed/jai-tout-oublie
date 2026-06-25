@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jai-tout-oublie/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for J'ai Tout Oublié](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jai-tout-oublie/) |
+| **Get License** | [Get License For J'ai Tout Oublié](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jai-tout-oublie/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans tes yeux j'ai tout oublié, c'est la folie,
+> Paris s'efface quand on danse dans la nuit.
+> Ton parfum a le goût du luxe, d'une douce magie,
+> J'ai tout oublié, il n'y a que toi et moi ici.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
